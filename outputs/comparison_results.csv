@@ -1,0 +1,5 @@
+model,positive_class,accuracy,precision,recall,f1_score,benign_precision,benign_recall,benign_f1_score
+Random Forest,malignant,0.947368,0.928571,0.928571,0.928571,0.958333,0.958333,0.958333
+Support Vector Machine (SVM),malignant,0.982456,0.976190,0.976190,0.976190,0.986111,0.986111,0.986111
+Gaussian Naive Bayes,malignant,0.938596,0.926829,0.904762,0.915663,0.945205,0.958333,0.951724
+Gradient Boosting,malignant,0.956140,0.974359,0.904762,0.938272,0.946667,0.986111,0.965986
